@@ -4,7 +4,7 @@ Panduan ini berisi dua cara instalasi: **Termux (Android)** dan **Ubuntu (Linux)
 
 ## Informasi penting
 
-- Aplikasi NXA dibuat menggunakan Python.
+- NXA dibuat menggunakan Python.
 - **Tidak membutuhkan library/paket Python tambahan** berdasarkan source `nxa.py`.
 - Virtual environment (`venv`) **opsional**, tetapi disarankan agar lingkungan Python tetap rapi dan tidak mengganggu paket sistem.
 - Pastikan file `nxa.py` sudah berada di folder tempat kamu akan menjalankan perintah.
